@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemTraThu", "KiemTraThu\KiemTraThu.csproj", "{0094D210-87D2-41DF-B12A-04A3401D32EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAllTheFunction", "TestingAllTheFunction\TestingAllTheFunction.csproj", "{D59822ED-603D-4357-BCB6-3CA9138D55AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0094D210-87D2-41DF-B12A-04A3401D32EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0094D210-87D2-41DF-B12A-04A3401D32EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0094D210-87D2-41DF-B12A-04A3401D32EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0094D210-87D2-41DF-B12A-04A3401D32EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59822ED-603D-4357-BCB6-3CA9138D55AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59822ED-603D-4357-BCB6-3CA9138D55AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59822ED-603D-4357-BCB6-3CA9138D55AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59822ED-603D-4357-BCB6-3CA9138D55AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4695AE-8899-48C6-9420-3887DB22CF1B}
+	EndGlobalSection
+EndGlobal
